@@ -1,11 +1,11 @@
- <img align="center" alt="Heroku" height="90" width="900" src="https://ik.imagekit.io/llneva6qvex/Talent/CSC_logo_horizontal_azul_lBu_7s3a3i.png?updatedAt=1636503122008">
+<img align="center" alt="Heroku" height="200" width="900" src="https://ik.imagekit.io/bga7odqg1yl/HACKATON/LogoOficial_o5s54CYHY.jpeg?updatedAt=1636643503696">
 
 
 <h2 align="center">Talent Fest</h2>
 <h2 align="center">Desafio Raízen</h2>
-<h3 align="center">Para acessar a aplicação, clique <a href="" target="_blank" style="color:#CBEA00" title="Clique aqui!">Aqui ✅.</a></h3>
+<h3 align="center">Para acessar a aplicação, clique <a href="https://tf-raizen-sap-006-1uoeg40xr-vanessa-cl.vercel.app/" target="_blank" style="color:#CBEA00" title="Clique aqui!">Aqui ✅.</a></h3>
 
-![Aplicação]() <!-- colocar gif da aplicação aqui--> 
+![Aplicação](src/images/Prototipo.gif) <!-- colocar gif da aplicação aqui--> 
 
 ## 📑 Índice
 - [1. O produto](#1-produto)
@@ -67,7 +67,7 @@ Depois de todas as pesquisas, verificamos quais seriam os nossos Itens de ação
 As cores do layout foram pré-definifas pela empresa.
 A partir do resultados das PESQUISAS realizadas com os usuários, dos estudos sobre a marca, muitas referências e inspirações, construímos  alguns PROTÓTIPOS. 
 
-![Paleta de Cores](https://ik.imagekit.io/llneva6qvex/Talent/manual_da_marca_88GaTKLMA.PNG?updatedAt=1636408797836)
+![Paleta de Cores](https://ik.imagekit.io/bga7odqg1yl/HACKATON/cores_tJYXp4ypP.png?updatedAt=1636648803331)
 
 
 ## 🎯 Protótipos:
@@ -101,8 +101,8 @@ Os protótipos foram pensandos para facilitar a navegação e em trazer uma resp
 
 
 ## 👩‍💻 6. AUTORAS:
-Projeto realizado para o Bootcamp da **LABORATÓRIA** no Talent Fest com o apoio da **Raízen.**
 <h2 align="center">
+ <p> Projeto realizado para o Bootcamp da LABORATÓRIA no Talent Fest com o apoio da Raízen.</p>
   <div style="display: inline_block"><br>
       <a href="https://github.com/bea-ferraz">
         <img align="center" alt="Beatriz" height="90" width="80" src="https://ik.imagekit.io/bga7odqg1yl/HACKATON/79225626_stOW8ya_w.jpg?updatedAt=1636573406183">
