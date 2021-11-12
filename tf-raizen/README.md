@@ -5,7 +5,6 @@
 <h2 align="center">Desafio Raízen</h2>
 <h3 align="center">Para acessar a aplicação, clique <a href="https://tf-raizen-sap-006-1uoeg40xr-vanessa-cl.vercel.app/" target="_blank" style="color:#CBEA00" title="Clique aqui!">Aqui ✅.</a></h3>
 
-![Aplicação](src/images/Prototipo.gif) <!-- colocar gif da aplicação aqui--> 
 
 ## 📑 Índice
 - [1. O produto](#1-produto)
