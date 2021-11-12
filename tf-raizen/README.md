@@ -90,10 +90,6 @@ Os protótipos foram pensandos para facilitar a navegação e em trazer uma resp
 ### Página de Erro/Not Found
 ![Página de Erro](https://ik.imagekit.io/llneva6qvex/Talent/9_8lJ_1d-kqvSm.PNG?updatedAt=1636504638024)
 
-### 🚦 TESTES DE USABILIDADE
-
-![Teste usabilidade]()
-
 ## 🚧 5. MELHORIAS FUTURAS:
 - _Implementação de hand talk;_
 - _Implementação de busca por voz;_
