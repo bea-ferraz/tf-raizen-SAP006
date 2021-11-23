@@ -2,7 +2,7 @@
 
 
 <h2 align="center">Talent Fest</h2>
-<h2 align="center">Desafio Raízen</h2>
+<h2 align="center">Projeto vencedor durante o hackaton Talent Fest Laboratoria 2021 🥇</h2>
 <h3 align="center">Para acessar a aplicação, clique <a href="https://tf-raizen-sap-006-1uoeg40xr-vanessa-cl.vercel.app/" target="_blank" style="color:#CBEA00" title="Clique aqui!">Aqui ✅.</a></h3>
 
 ## 📑 Índice
@@ -93,6 +93,8 @@ Os protótipos foram pensandos para facilitar a navegação e em trazer uma resp
 ## 🚧 5. MELHORIAS FUTURAS:
 - _Implementação de hand talk;_
 - _Implementação de busca por voz;_
+- _Implementação de inteligencia artificial;_
+- _Mobile;_
 
 
 ## 👩‍💻 6. AUTORAS:
