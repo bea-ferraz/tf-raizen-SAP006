@@ -102,7 +102,7 @@ Os protótipos foram pensandos para facilitar a navegação e em trazer uma resp
  <p> Projeto realizado para o Bootcamp da LABORATÓRIA no Talent Fest com o apoio da Raízen.</p>
   <div style="display: inline_block"><br>
       <a href="https://github.com/bea-ferraz">
-        <img align="center" alt="Beatriz" height="90" width="80" src="https://ik.imagekit.io/bga7odqg1yl/HACKATON/79225626_stOW8ya_w.jpg?updatedAt=1636573406183">
+        <img align="center" alt="Beatriz" height="90" width="80" src="https://ik.imagekit.io/bga7odqg1yl/HACKATON/1690235267349_bFfePpBbv.jpg?updatedAt=1692233852324">
       </a>
       <a href="https://github.com/biancacristinaalves">
         <img align="center" alt="Bianca" height="90" width="80" src="https://ik.imagekit.io/bga7odqg1yl/HACKATON/83368857_InnJYbhrfM_.jpg?updatedAt=1636574142502">
